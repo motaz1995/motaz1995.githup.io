@@ -1,2 +1,2 @@
-# motaz1995.githup.io
+# motaz1995.github.io
 My Website
